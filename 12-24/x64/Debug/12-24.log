@@ -1,0 +1,21 @@
+﻿  函数重载.cpp
+E:\C++历程\12-24\函数重载.cpp(11,10): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+E:\C++历程\12-24\函数重载.cpp(33,26): error C2679: 二元“<<”: 没有找到接受“void”类型的右操作数的运算符(或没有可接受的转换)
+E:\VS C++\VC\Tools\MSVC\14.30.30705\include\ostream(464,39): message : 可能是“std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)”
+E:\VS C++\VC\Tools\MSVC\14.30.30705\include\ostream(439,39): message : 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)”
+E:\VS C++\VC\Tools\MSVC\14.30.30705\include\ostream(421,39): message : 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)”
+E:\VS C++\VC\Tools\MSVC\14.30.30705\include\ostream(403,39): message : 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)”
+E:\VS C++\VC\Tools\MSVC\14.30.30705\include\ostream(385,39): message : 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)”
+E:\VS C++\VC\Tools\MSVC\14.30.30705\include\ostream(367,39): message : 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)”
+E:\VS C++\VC\Tools\MSVC\14.30.30705\include\ostream(349,39): message : 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)”
+E:\VS C++\VC\Tools\MSVC\14.30.30705\include\ostream(331,39): message : 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)”
+E:\VS C++\VC\Tools\MSVC\14.30.30705\include\ostream(313,39): message : 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)”
+E:\VS C++\VC\Tools\MSVC\14.30.30705\include\ostream(294,39): message : 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)”
+E:\VS C++\VC\Tools\MSVC\14.30.30705\include\ostream(268,39): message : 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)”
+E:\VS C++\VC\Tools\MSVC\14.30.30705\include\ostream(249,39): message : 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)”
+E:\VS C++\VC\Tools\MSVC\14.30.30705\include\ostream(215,39): message : 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)”
+E:\VS C++\VC\Tools\MSVC\14.30.30705\include\ostream(197,39): message : 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)”
+E:\VS C++\VC\Tools\MSVC\14.30.30705\include\ostream(192,39): message : 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))”
+E:\VS C++\VC\Tools\MSVC\14.30.30705\include\ostream(187,39): message : 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))”
+E:\VS C++\VC\Tools\MSVC\14.30.30705\include\ostream(182,39): message : 或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))”
+E:\C++历程\12-24\函数重载.cpp(33,26): message : 尝试匹配参数列表“(std::ostream, void)”时
